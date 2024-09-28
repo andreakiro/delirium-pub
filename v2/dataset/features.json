@@ -1,0 +1,15 @@
+{
+    "x1": "CXC13L",
+    "x2": "EOTL",
+    "x3": "GROAL",
+    "x4": "HGFL",
+    "x5": "IL1AL",
+    "x6": "IL21L",
+    "x7": "IL22L",
+    "x8": "VEGFAL",
+    "x9": "CD3_pos_HLA_DR_pos",
+    "x10": "CD3_pos_CD4_pos_CD45RA_neg_CXCR3_pos",
+    "x11": "CD3_pos_CD4_pos_CXCR5_pos_PD1_pos_ICOS_pos_CXCR3_neg",
+    "x12": "CD3_neg_CD19_pos_CD21_low_CD38_low",
+    "x13": "CD3_neg_CD19_pos_CD27_pos_IgD_pos_IgM_pos"
+}
